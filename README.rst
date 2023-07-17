@@ -12,7 +12,7 @@ Test
 Citing Optwrf
 -------------
 
-Test
+Sward, J. A., Ault, T. R., & Zhang, K. M. (2022). Genetic algorithm selection of the weather research and forecasting model physics to support wind and solar energy integration. Energy, 254, 124367.
 
 License
 -------
